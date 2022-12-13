@@ -1,6 +1,6 @@
 .custom-form{
     margin: 90px auto 120px;
-    max-width: 500px;
+    max-width: 600px;
     border: 2px solid #000 ;
     border-radius: 20px;
     padding: 30px;
@@ -16,3 +16,23 @@
     margin: 20px auto;
 }
 
+
+.form-test{
+    margin: 90px auto 120px;
+    max-width: 500px;
+    border: 2px solid #000 ;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.col-md-7{
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+}
+
+
+.img-logo{
+    height: 30px;
+    width: 30px;
+}
