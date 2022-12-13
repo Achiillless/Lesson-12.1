@@ -1,0 +1,17 @@
+.custom-form{
+    margin: 90px auto 120px;
+    max-width: 500px;
+    border: 2px solid #000 ;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.custom-form .col-md-6{
+    display: flex;
+    flex-direction: column;
+}
+
+.custom-form [type="submit"]{
+    max-width: 250px;
+    margin: 20px auto;
+}
